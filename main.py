@@ -1,7 +1,7 @@
 # CONFIG
 email = "la01bp5j6s@best-john-boats.com" # Email to signer upper
 debug = False # Enable for debug mode
-loop = True # Whether or not to loop
+loop = False # Whether or not to loop
 loopDelay = 20 # Delay if looping (seconds)
 
 # IMPORTS
